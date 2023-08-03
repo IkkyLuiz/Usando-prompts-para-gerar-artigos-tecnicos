@@ -103,16 +103,15 @@ felipe-exe">LinkedIn</a>
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/81529238?v=4"
     />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/IkkyLuiz">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+    <a href="www.linkedin.com/in/adm-luiz-henrique-fc">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
+    <a href="https://www.instagram.com/codingikky/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
@@ -120,4 +119,4 @@ felipe-exe">LinkedIn</a>
 <p>
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Luiz Henrique](https://github.com/IkkyLuiz) com ajuda de [Felipe Aguiar](https://github.com/felipeAguiarCode)
