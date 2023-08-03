@@ -68,6 +68,9 @@ Lexica.art：
 ## 📚 Materiais
 
 - prompts utilizados
+- Faça um texto para ebook , com foco em PHP, listando as principais estruturas de controle em PHP com exemplos em código 
+{REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico 
+- Explique os códigos de maneira resumida.
 
 ## 🛠️ Instruções de execução
 
@@ -119,4 +122,4 @@ felipe-exe">LinkedIn</a>
 <p>
 ---
 
-⌨️ com 💜 por [Luiz Henrique](https://github.com/IkkyLuiz) com ajuda de [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ Feito com 💜 por [Luiz Henrique](https://github.com/IkkyLuiz) com ajuda de [Felipe Aguiar](https://github.com/felipeAguiarCode)
